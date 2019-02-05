@@ -10,4 +10,4 @@ LICENSE
 
 <Insert License Here>
 
-Authorize use only
+Authorized use only
